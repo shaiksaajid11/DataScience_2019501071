@@ -1,0 +1,60 @@
+{
+    "settings.json": [
+        {
+            "operation": "PASTE",
+            "lines": 3,
+            "keyStrokeTimeStamp": "Wed Nov 25 2020 19:52:33",
+            "keyStrokeInfo": "{\r\n    \"jupyter.jupyterServerType\": \"local\"\r\n}",
+            "position": "1,1"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 2,
+            "keyStrokeTimeStamp": "Wed Nov 25 2020 20:12:35",
+            "keyStrokeInfo": "    \"jupyter.jupyterServerType\": \"local\",\r\n    \"python.pythonPath\": \"C:\\\\Users\\\\lenovo\\\\anaconda3\\\\python.exe\"",
+            "position": "2,1"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Wed Nov 25 2020 20:56:46",
+            "keyStrokeInfo": "\"C:\\\\Python38\\\\python.exe\"",
+            "position": "3,26"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Wed Nov 25 2020 20:57:17",
+            "keyStrokeInfo": "\"C:\\\\Users\\\\lenovo\\\\anaconda3\\\\python.exe\"",
+            "position": "3,26"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Wed Nov 25 2020 20:57:26",
+            "keyStrokeInfo": "\"C:\\\\Python38\\\\python.exe\"",
+            "position": "3,26"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Wed Nov 25 2020 21:07:50",
+            "keyStrokeInfo": "\"C:\\\\Python38\\\\python.exe\"",
+            "position": "3,26"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Wed Nov 25 2020 21:15:49",
+            "keyStrokeInfo": "\"C:\\\\Users\\\\lenovo\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python38-32\\\\python.exe\"",
+            "position": "3,26"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Wed Nov 25 2020 21:16:34",
+            "keyStrokeInfo": "\"C:\\\\Users\\\\lenovo\\\\anaconda3\\\\python.exe\"",
+            "position": "3,26"
+        }
+    ]
+}
