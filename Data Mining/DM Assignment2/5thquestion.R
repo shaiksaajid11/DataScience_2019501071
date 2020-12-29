@@ -1,0 +1,16 @@
+setwd("D:\\DataScience_2019501071\\Data Mining\\DM Assignment2")
+data <- read.csv("twomillion.csv",header=FALSE)
+sam <- sample(seq(1,length(data[,1])),10000,replace=T)
+mysample <- data[sam,1]
+mean(mysample)
+max(mysample)
+var(mysample)
+quantile(mysample,.25)
+max(data[,1])
+var(data[,1])
+quantile((data[,1]),.25)
+#difference
+abs(mean(mysample)-mean(data[,1]))
+abs(max(mysample)-max(data,1))
+abs(quantile(mysample,.25)-quantile((data[,1]),.25))
+write.csv(mysample,"mysample.csv")
